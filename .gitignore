@@ -1,0 +1,4 @@
+# Holds this machine's server token.
+config.json
+config.json.*.tmp
+node_modules
